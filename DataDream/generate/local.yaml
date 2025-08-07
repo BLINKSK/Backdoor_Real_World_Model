@@ -1,0 +1,5 @@
+
+save_dir: /data/Collector/DataDream/dataset/generation   # GLOBAL_PATH_TO_SYNTH_DATA_DIR
+datadream_dir: /data/Collector/DataDream/DataDream/outputs   # GLOBAL_PATH_TO_DATADREAM_CKPT_DIR
+model_dir: 
+    sd2.1: /data/Collector/sd2.1   # PATH_TO_SD2.1_DIR
