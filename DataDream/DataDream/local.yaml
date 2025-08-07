@@ -1,0 +1,8 @@
+fewshot_data_dir: 
+    # PATH_TO_FEWSHOT_DATA_DIR
+    # voc: /data/Collector/DataDream/dataset/fewshot_data/voc    
+    imagenet: /data/Collector/DataDream/dataset/fewshot_data/imagenet
+
+model_dir: 
+    # PATH_TO_SD2.1_DIR
+    sd2.1: /data/Collector/sd2.1
